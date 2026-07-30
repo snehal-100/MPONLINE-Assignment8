@@ -1,0 +1,21 @@
+# Dataset files
+*.csv
+mnist_train.csv
+mnist_test.csv
+
+# Kaggle API credentials
+kaggle.json
+
+# TensorFlow / Keras models & checkpoints
+*.h5
+*.keras
+checkpoint/
+
+# Jupyter & IDE temporary files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# System cache
+.DS_Store
+__pycache__/
+*.pyc
